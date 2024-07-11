@@ -1,0 +1,24 @@
+step 1 - download from download folder
+    1. Find and install xampp-windows-x64-8.2.12-0-VS16-installer.exe from download folder
+    2. Follow onscreen instructions
+
+setp 2 - Open xampp
+    1. Click on start button next to mysql
+    2. Once started, click of admin button, next to stop button and once site will Open
+    3. Search for import
+    4. In import click on chose file and select file db.sql from database folder
+
+setp 3 - Find xampp folder
+    1. Open xampp folder find htdocs folder
+    2. Copy college.zip file to that folder and extract the file
+
+step 4 - Run project
+    1. Again open xampp app
+    2. Click on start button next to apache
+    3. Once started, click on admin button next to stop button and browser tab will open
+    4. http://localhost/product_crud/index.html paste this url in tab
+
+demo
+
+ username = vipulsawant847
+ password = vipzy
